@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name":"Mercedes-Benz",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/26563776/pexels-photo-26563776/free-photo-of-black-mercedes-amg-gt-on-road-in-forest.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "id":2,
+        "name":"Mercedes-Benz",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/26563776/pexels-photo-26563776/free-photo-of-black-mercedes-amg-gt-on-road-in-forest.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    
+    {
+        "id":3,
+        "name":"Mercedes-Benz",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/26563776/pexels-photo-26563776/free-photo-of-black-mercedes-amg-gt-on-road-in-forest.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    
+    {
+        "id":4,
+        "name":"Mercedes-Benz",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/26563776/pexels-photo-26563776/free-photo-of-black-mercedes-amg-gt-on-road-in-forest.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    
+    {
+        "id":5,
+        "name":"Mercedes-Benz",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/26563776/pexels-photo-26563776/free-photo-of-black-mercedes-amg-gt-on-road-in-forest.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    
+    {
+        "id":6,
+        "name":"Mercedes-Benz",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/26563776/pexels-photo-26563776/free-photo-of-black-mercedes-amg-gt-on-road-in-forest.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "id":7,
+        "name":"Mercedes-Benz",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/26563776/pexels-photo-26563776/free-photo-of-black-mercedes-amg-gt-on-road-in-forest.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "id":8,
+        "name":"Mercedes-Benz",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/26563776/pexels-photo-26563776/free-photo-of-black-mercedes-amg-gt-on-road-in-forest.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "id":9,
+        "name":"Mercedes-Benz",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/26563776/pexels-photo-26563776/free-photo-of-black-mercedes-amg-gt-on-road-in-forest.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "id":10,
+        "name":"Mercedes-Benz",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/26563776/pexels-photo-26563776/free-photo-of-black-mercedes-amg-gt-on-road-in-forest.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+        "id":11,
+        "name":"Mercedes-Benz",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://images.pexels.com/photos/26563776/pexels-photo-26563776/free-photo-of-black-mercedes-amg-gt-on-road-in-forest.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+    
+    
+    
+
+]
