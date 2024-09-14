@@ -33,10 +33,10 @@ function Banner() {
             <input type="text" className="grow" placeholder="Email" />
           </label>
 
-          <button className="btn mt-6 btn-secondary">Secondary</button>
+          <button className="btn mt-6 btn-secondary">Get Started</button>
         </div>
 
-        <div className=" order-1 w-full md:w-1/2">
+        <div className=" order-1 w-full md:w-1/2 ">
           <img src={banner} className="w-92 h-92 mt-20 px-10 " alt="" />
         </div>
       </div>
